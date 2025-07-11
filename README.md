@@ -102,12 +102,6 @@ Additional calculated columns in Power BI include:
 
 ---
 
-## Contact
-
-For questions or help, please reach out!
-
----
-
 ## License
 
 This project is released under the MIT License.
