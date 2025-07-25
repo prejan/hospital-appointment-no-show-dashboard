@@ -1,4 +1,4 @@
-# Hospital Appointment No-Show Dashboard
+# Hospital Appointment No-Show Dashboard.
 
 ## Project Overview
 
